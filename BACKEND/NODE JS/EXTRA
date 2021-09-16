@@ -1,0 +1,92 @@
+String opereations 
+math operations 
+string literals(concat) 
+ifelse 
+ternory
+array
+
+
+
+localstorage
+sessionsto
+cookie
+loop
+map
+objects
+JSON
+Api Calling 
+Fetc
+Promise 
+async await 
+geolocation
+light/dark modes
+
+
+
+filter
+let const
+http://api.openweathermap.org/data/2.5/forecast/daily?q=Delhi&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29
+
+//dummy api 
+** NodeJs must be install in system
+//only one time
+>open cmd as Administator
+> npm i -g json-server
+> close cmp
+
+
+>>Everytime you want to generate api<<
+> open new cmp
+> go inside the folder
+> cd and path
+> json-server --watch data.json --port 4500(run the server)
+
+
+///mac/linux
+//only one time  
+> open terminal 
+> sudo npm i -g json-server
+
+
+
+
+///Nodejs
+>FullStack with Node
+(Node, Express, html/css/bs/EJS, MongoDB)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
